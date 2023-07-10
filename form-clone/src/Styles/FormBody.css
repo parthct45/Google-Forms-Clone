@@ -1,0 +1,14 @@
+.panel-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column; 
+    height: 100%;
+}
+
+.formBodyWrapper{
+    background-color: white;
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+

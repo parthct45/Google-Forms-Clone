@@ -1,0 +1,23 @@
+.form-image{
+    width: 220px;
+    height: 150px;
+    border-bottom: 1px solid #ddd;
+}
+
+.form-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.form-card{
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.form-card:hover{
+    border-color: #46007b;
+}

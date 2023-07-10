@@ -1,0 +1,20 @@
+.drawer-text{
+    font-size: 1.5em;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.drawer-footer{
+    position: fixed;
+    bottom: 20px;
+    left: 30px;
+}
+
+.drawer-footer > a{
+    padding: 4px;
+    text-decoration: none;
+}
+
+.item{
+    background-color: red;
+}

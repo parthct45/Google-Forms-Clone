@@ -1,0 +1,7 @@
+.template-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    max-width: 600px;
+    margin-top: 10px;
+}

@@ -1,0 +1,15 @@
+.template-image{
+    height: 140px;
+    width: 180px;
+    border: solid 1px #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.template-image:hover{
+    border-color: #777;
+}
+
+.template-card{
+    margin-right: 15px;
+}
