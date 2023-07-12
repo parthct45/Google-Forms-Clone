@@ -1,4 +1,4 @@
-# Google-Forms-Clone 
+# MCQ-Forms 
 This project is a web-based application that allows users to create and manage multiple-choice question forms. It provides a user-friendly interface for creating, distributing, and collecting responses for MCQ-based tests, customer surveys, and feedback forms. 
 
 # Features 
